@@ -1,4 +1,4 @@
-# java-set-implementations
+# java-set
 
 This repository contains Java implementations of Set data structures using arrays and ArrayLists. Sets are fundamental data structures that store unique elements, ensuring that no duplicates are present.
 
